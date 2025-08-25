@@ -1,5 +1,5 @@
-# 🎨 HTML & CSS Project Folder
-Welcome to the HTML and CSS project folder! Here you can find all of my projects based on **HTML** and **CSS**. Each folder has a difficulty level designed to showcase my skills and knowledge I gained from learning. Every project in this folder will have a README for documentation and the files needed for each project. 
+# 🎨 Design Project Folder
+Welcome to the Design project folder! Here you can find all of my projects based on **HTML** and **CSS**. Each folder has a difficulty level designed to showcase my skills and knowledge I gained from learning. Every project in this folder will have a README for documentation and the files needed for each project. 
 
 ## 🛠 Skills in this folder:
 - Writing clean HTML with semantic tags
@@ -10,37 +10,37 @@ Welcome to the HTML and CSS project folder! Here you can find all of my projects
 ## 📂 Sub-Directory: 
 Here are the following folders in this directory: 
 
-### Accessibility: 
+### 🤳🏽Accessibility: 
 This folder contains all projects with accessibility standards adhere to so everyone can use the web. 
 
 Link to README: Coming Soon!
 
-### Basics: 
+### 🌱 Basics: 
 The Basics folder is designed to lay a foundation into HTML and CSS through structure and tags 
 
-Link to README: [Basics README]()
+Link to README: [Basics README](./UI-Portfolio/Design/Basics/README.md "My Basics README")
 
-### Layouts:
+### 👩🏽‍💻 Layouts:
 The Layouts folder holds all projects that focus on positioning and arranging content in various ways
 
 Link to README: Coming Soon!
 
-### Responsive Design: 
+### 📱 Responsive Design: 
 Each project in this folder can adapt to different screen sizes through media queries 
 
 Link to README: Coming Soon!
 
-### UI Components: 
+### 🧩 UI Components: 
 The UI Components folder has all components that can be re-used for other projects as interface elements 
 
 Link to README: Coming Soon!
 
-### Styling Themes: 
+### 🖌️ Styling Themes: 
 This folder contains themes and aesthetics through (color, typographies, and animations)
 
 Link to README: Coming Soon!
 
-### Projects
+### 🏗️ Projects
 The Projects folder contains my final projects designed to resemble real-world websites as examples  
 
 Link to README: Coming Soon!

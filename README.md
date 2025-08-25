@@ -6,15 +6,15 @@ Hi! I’m **Kalecia McNeal**, a front-end software developer passionate about **
 
 ## 📂 Folders
 
-### 🎨 HTML & CSS: 
-The HTML and CSS folder contains projects that have these languages as the focus for styling and layout for the web. 
+### 🎨 Design: 
+This folder contains all of my projects I design with UX/UI principles using HTML/CSS to style it on the web
 
-Link to HTML/CSS README: [HTML/CSS README](./HTML-CSS/README.md "My HTML-CSS README")
+Link to Design README: [Design README](./UI-Portfolio/Design/README.md "My UI Design README")
 
-### 🛠️ JavaScript:
-The JavaScript folder contains projects with a focus on interactivity between the user and the program. 
+### 👩🏽‍💻 Programs:
+This folder contains all of my UI design projects I can bring to life using interactivity from JavaScript. 
 
-Link to JS README: [JS README](./JavaScript/README.md "My JavaScript README")
+Link to Programs README: [Programs README](./UI-Portfolio/Programs/README.md "My Programs README")
 
 ## 🙏 Acknowledgements
 I’ve learned and built these projects using resources like:

@@ -1,0 +1,12 @@
+/*This is a CSS template*/
+
+*{
+  padding: 5px; 
+  margin: 5px;
+  background-color: rgb(231, 161, 252);
+}
+
+body{
+  color:rgb(89, 2, 104);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
