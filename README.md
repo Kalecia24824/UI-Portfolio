@@ -1,10 +1,11 @@
-# 🌸 Front-End Development Portfolio
+# 🌸 User Interface Portfolio
 Welcome! This is my collection of projects showcasing my skills in **HTML**, **CSS**, and **JavaScript**. Each folder contains projects organized by language and skill level.
 
 ## 📖 About Me
 Hi! I’m **Kalecia McNeal**, a front-end software developer passionate about **UI design** and creating user-friendly, accessible websites. I build projects that focus on **good design, responsiveness, and interactivity**.
 
 ## 📂 Folders
+Here are the folders I currently have in my directory: 
 
 ### 🎨 Design: 
 This folder contains all of my projects I design with UX/UI principles using HTML/CSS to style it on the web
