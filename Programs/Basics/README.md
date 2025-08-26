@@ -21,32 +21,32 @@ Here are the following projects that make up the Basics folder
 ### 🌍 Hello World: 
 This is the first project that prints to the screen using `console.log`. 
 
-Link: [Hello README](./UI-Portfolio/Programs/Basics/Hello-World/README.md "My Hello World README")
+Link: [Hello README](./Hello-World/README.md "My Hello World README")
 
 ### 🧪 Variables: 
 The project deals with defining variables and data type values using keywords such as let or const. 
 
-Link: [Variables README](./UI-Portfolio/Programs/Basics/Variables/README.md "My Variables README")
+Link: [Variables README](./Variables/README.md "My Variables README")
 
 ### ➕ Functions: 
 This project teaches you about functions by learning how to create one and understanding the difference between an expression and declarations 
 
-Link: [Functions README](./UI-Portfolio/Programs/Basics/Functions/README.md "My Functions README")
+Link: [Functions README](./Functions/README.md "My Functions README")
 
 ### 📃 Arrays:
 This project teaches you how to create an array, manipulate them using methods such as pop and how to loop through them using keywords such as for. 
 
-Link: [Arrays README](./UI-Portfolio/Programs/Basics/Arrays/README.md "My Arrays README")
+Link: [Arrays README](./Arrays/README.md "My Arrays README")
 
 ### 🔵 Objects: 
 The Objects project is designed to help learn about objects are created with properties, how to access them through dot and bracket notation, and how to add/update properties. 
 
-Link: [Objects README](./UI-Portfolio/Programs/Basics/Objects/README.md "My Objects README")
+Link: [Objects README](./Objects/README.md "My Objects README")
 
 ### 🛤️ Control Statements: 
 Learn how to control where data goes through using statements such as `if-else`, `switch` and through loops such as `for` or `while`. 
 
-Link: [Control Statements README](./UI-Portfolio/Programs/Basics/Control-Statements/README.md "My Control Statements README")
+Link: [Control Statements README](./Control-Statements/README.md "My Control Statements README")
 
 ## 🙏 Acknowledgements
 Each project will contain acknowledgements in its README for resources used to help complete it. 

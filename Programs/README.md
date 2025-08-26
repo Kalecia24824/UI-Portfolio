@@ -21,7 +21,7 @@ Link to README: Coming Soon!
 ### 🌱 Basics: 
 The Basics folder will contain all basic JS programs that can run on the console such as variables, functions, arrays, control statements and fundamental things needed. 
 
-Link: [Basics README](./UI-Portfolio/Programs/Basics/README.md "My Basics README")
+Link: [Basics README](./Basics/README.md "My Basics README")
 
 ### 🧩 Components: 
 The Components folder holds all projects that can be used as UI components for various websites. Each project will have a final design form from Figma or they will be a build-up from the Design folder.  
