@@ -10,18 +10,18 @@ Here are the folders I currently have in my directory:
 ### 🎨 Design: 
 This folder contains all of my projects I design with UX/UI principles using HTML/CSS to style it on the web
 
-Link to Design README: [Design README](./UI-Portfolio/Design/README.md "My UI Design README")
+Link to Design README: [Design README](./Design/README.md "My UI Design README")
 
 ### 👩🏽‍💻 Programs:
 This folder contains all of my UI design projects I can bring to life using interactivity from JavaScript. 
 
-Link to Programs README: [Programs README](./UI-Portfolio/Programs/README.md "My Programs README")
+Link to Programs README: [Programs README](./Programs/README.md "My Programs README")
 
 ## 🙏 Acknowledgements
 I’ve learned and built these projects using resources like:
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [MDN Web Docs](https://developer.mozilla.org/)
-- [O'Reilly Scholarship]()
+- [O'Reilly Scholarship](https://www.oreilly.com/diversity/scholarship-program.html)
 
 ## 📬 Contact
 Here is my contact info for more questions:
