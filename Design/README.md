@@ -18,7 +18,7 @@ Link to README: Coming Soon!
 ### 🌱 Basics: 
 The Basics folder is designed to lay a foundation into HTML and CSS through structure and tags 
 
-Link to README: [Basics README](./UI-Portfolio/Design/Basics/README.md "My Basics README")
+Link to README: [Basics README](./Basics/README.md "My Basics README")
 
 ### 👩🏽‍💻 Layouts:
 The Layouts folder holds all projects that focus on positioning and arranging content in various ways
