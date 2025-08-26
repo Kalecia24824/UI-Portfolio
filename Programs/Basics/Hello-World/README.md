@@ -20,7 +20,7 @@ Here are the following skills used in the project
 
 ## 📸 Final Screenshot:
 Here is the final screenshot I took of the project: 
-[Final Screenshot](./img/final-screenshot.png "My Final Screenshot")
+![Final Screenshot](./img/final-screenshot.png "My Final Screenshot")
 
 ## What I would have changed: 
 After making this, I would not change anything 
