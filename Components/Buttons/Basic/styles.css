@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  background-color: #9966ff; /*Sticks with astro theme*/ 
+  padding: 0; 
+}
+
+body{
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  margin: 200px;
+}
+
+button{
+  background-color: rgb(218, 133, 255);
+  border: 5px solid rgb(93, 2, 101);
+  border-radius: 15%;
+  box-shadow: 0 0 4px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif; 
+  padding: 20px;
+}
+
+button:hover{
+  background-color: rgb(179, 0, 255); 
+  color: rgb(255, 255, 255); 
+}
+
+button:active{
+  transform: translateY(4px); /*Shifts button down in 4 spaces*/
+  background-color: rgb(145, 0, 177);
+}

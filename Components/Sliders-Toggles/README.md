@@ -19,10 +19,15 @@ Here are the tools and skills needed for this folders:
 ## 📂 Projects
 Here are the projects contained in this folder: 
 
-### Basic Sliders: 
-This project showcases the basic types of sliders many coders and designers use for their websites 
+### Basic Slider: 
+This project shows how simple a slider can be
 
 Link: [Basic README](./Basic/README.md "My Basic README")
+
+### Nighttime Toggle: 
+This project is a simple toggle that changes the background once the users presses the button
+
+Link: [Nighttime README](./Nighttime/README.md "My Nighttime Toggle README")
 
 ## 🙏 Acknowledgements
 I’ve learned and built these projects using resources like:

@@ -18,12 +18,19 @@ Here are the tools and skills needed for this folders:
 
 ## 📂 Projects
 
+### Basic Button: 
+This is the standard for all buttons any coder or designer can use in their work
+Link: [Basic README](./Basic/README.md "My Basic Button README")
+
+### Confetti Button: 
+This project is a button that can be used for celebrations 
+Link: [Confetti README](./Confetti/README.md "My Confetti Button README")
+
 ## 🙏 Acknowledgements
 I’ve learned and built these projects using resources like:
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Docs](https://www.w3docs.com/)
 - [HTML Academy](https://htmlacademy.org/)
-
 
 ## 📬 Contact
 Here is my contact info for more questions:

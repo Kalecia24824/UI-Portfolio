@@ -1,7 +1,8 @@
-# Project Basic
+# Project Basic Slider
+<em>by Kalecia McNeal</em>
 
 ## 🎯 Objective
-Create a simpe slider that changes color the user moves it across the screen
+Create a simple slider that changes color the user moves it across the screen
 
 ## 📝 Goal
 The main goal of this project is to showcase how versatile a simple slider can be in many ways  
@@ -20,11 +21,16 @@ With the project all finished, here are the final results:
 - A slider with the thumb as the image of the moon 
 - Lastly but not least, the background of the slider changes into a nighttime gradient as the user drags it across the screen 
 
-The screenshot can be located here: 
-<!--Screenshots or a demo link if available. --> 
+The screenshots for the project can be located here: 
+
+Before:
+![Final Screenshot](./img/final-screenshot.png) 
+
+After 
+![Final-Screenshot-2](./img/final-screenshot-2.png)
 
 ## 🔍 Reflection
-1–2 sentences on what you learned or would improve next time.  
+Overall, I enjoyed this project! I will admit some parts of the project were not easy. For example, changing the image of the thumb to the moon icon was a little difficult. Another issue was matching the linear-gradient in the function to the style I made in CSS. Once I was able to figure how those parts work by testing them I was able to complete the project!
 
 ## 🙏 Acknowledgements
 I’ve learned and built these projects using resources like:

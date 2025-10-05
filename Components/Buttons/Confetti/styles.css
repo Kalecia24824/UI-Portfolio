@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+  background-color: rgb(89, 186, 255);
+}
+
+html, body{
+  margin: 0;
+  padding: 0; 
+  max-width: 1000px;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  background-color: rgb(84, 54, 255);
+  box-shadow: 0 0 4px 6px rgba(109, 56, 113, 0.551);
+  color: rgb(0, 0, 0);
+  font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  margin: 200px;
+  padding: 25px;
+  text-align: center;
+}
+
+/*Button Hover*/
+button:hover{
+  background-color: rgb(1, 1, 129);
+  color:white;
+}
+
+/*Button Active*/
+button:active{
+  transform: translateY(3px);
+}
+
+@media (min-width: 300px){
+  button{
+    padding: 20px;
+    font-size: 20px;
+  }
+}
